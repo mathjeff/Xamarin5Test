@@ -11,3 +11,5 @@ To reproduce:
 
 Check out the Xamarin 4 commit and deploy it to an Android phone, and see that it works
 Check out master (which updates to Xamarin 5) and see that when trying to deploy it to an Android phone causes the above build failure (until you clean the project)
+
+See also the full build log checked in as build.log
